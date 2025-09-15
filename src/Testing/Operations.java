@@ -32,7 +32,7 @@ public class Operations {
         System.out.println("Total after subtraction: " + totalsub);
         int mulresult = ops.multiply(totalsub, 2);
         System.out.println("Result after multiplication: " + mulresult);
-        ops.divide(mulresult, 2);
+        ops.divide(mulresult,  2);
     }
 
 }
